@@ -1,0 +1,2 @@
+# SpringSecurityMybatisAnnotationExample
+spring security mytatis annotation 集成.包括了spring-sesurity,mytabis,springmvc框架.全部使用注解驱动,和xml配置baybay.安全框架采用基于角色的方式进行控制.http采用restful风格.
