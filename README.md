@@ -7,5 +7,5 @@
 
 本项目没有xml配置文件，全部以注解的方式，进行配置注入。
 
-#### 项目参考：[www.websystique.com](www.websystique.com)
-#### 个人blog: [wiki.niejinkun.com](wiki.niejinkun.com)
+#### 项目参考：[www.websystique.com](http://www.websystique.com)
+#### 个人blog: [wiki.niejinkun.com](http://wiki.niejinkun.com)
