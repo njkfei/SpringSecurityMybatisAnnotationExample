@@ -1,2 +1,11 @@
-# SpringSecurityMybatisAnnotationExample
-spring security mytatis annotation 集成.包括了spring-sesurity,mytabis,springmvc框架.全部使用注解驱动,和xml配置baybay.安全框架采用基于角色的方式进行控制.http采用restful风格.
+## 项目简介
+ 基于spring mytabis springmvc bcrypt springsecurity restful构建本项目。
+ * spring 提供框架管理功能。
+ * mybatis 提供数据访问框架，存储用户数据
+ * springmvc 通过restful风格，提供服务。
+ * 用户账号没有进行加密
+
+本项目没有xml配置文件，全部以注解的方式，进行配置注入。
+
+#### 项目参考：[www.websystique.com](www.websystique.com)
+#### 个人blog: [wiki.niejinkun.com](wiki.niejinkun.com)
